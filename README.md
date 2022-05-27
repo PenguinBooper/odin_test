@@ -1,3 +1,3 @@
 # odin_test
 
-hello odin
+hello odin project
